@@ -1,4 +1,8 @@
-# ME 405 Lab Repository
+# ME 405 Lab 1 Repository
 
-### Organisation
-###### Each lab is organised into its own folder which contains documentation and source code. 
+### Contents
+#### docs
+###### Contains html files for Lab 1 documentation. 
+
+#### src
+###### Contains source code files for Lab 1. 
