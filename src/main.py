@@ -1,6 +1,6 @@
 """!
 @file main.py
-This file contains code used to operate the ME405 motot 
+This file contains code used to operate the ME405 motor.
 
 @details The main script calls the MotorDriver class and EncoderDriver class,
 imported as modules, to operate the motor and encoders.
